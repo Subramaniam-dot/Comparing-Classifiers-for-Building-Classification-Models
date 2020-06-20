@@ -1,5 +1,5 @@
-#### Comparing-Classifiers-for-Building-Classification-Models
-we will be comparing the performance of different classifiers for building classification models for Breast Cancer Dataset.
+## Comparing-Classifiers-for-Building-Classification-Models
+#### we will be comparing the performance of ***different classifiers*** for building classification models for Breast Cancer Dataset.
 
 # Algorithm:
 1. Make breast cancer dataset
@@ -52,7 +52,7 @@ Split the dataset into Training set and Test set, where 80% of the dataset is as
 | SGD | 0.921053        |
 
 # Color wise Table for model performance
-Dark Green color to Light, where Dark shade has high score for that respective classifier and Light shade has less score for that respective classifier.
+**Dark Green color to Light**, where Dark shade has high score for that respective classifier and Light shade has less score for that respective classifier.
 ![](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag1.JPG?raw=true)
 
 
