@@ -51,8 +51,12 @@ Split the dataset into Training set and Test set, where 80% of the dataset is as
 | QDA | 0.956140        |
 | SGD | 0.921053        |
 
+# Color wise Table for model performance
+Dark Green color to Light, where Dark shade has high score for that respective classifier and Light shade has less score for that respective classifier.
 ![](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag1.JPG?raw=true)
 
 
-# analysis
+# Bar plot of model performance
+Here is the  Bar Plot of model performance, where X axis is the Score for the Classifiers and Y axis is name of the classifiers. 
+
 ![](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag2.png?raw=true)
