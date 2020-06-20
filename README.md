@@ -26,7 +26,7 @@ Split the dataset into Training set and Test set, where 80% of the dataset is as
 - Decision Tree Classifier
 - ExtraTrees Classifier
 - RandomForest Classifier
-- Multi-layer Perceptron C lassifier
+- Multi-layer Perceptron Classifier
 - AdaBoost Classifier
 - Gaussian Naive Bayes Classifier
 - Quadratic Discriminant Analysis
