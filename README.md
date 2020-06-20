@@ -51,4 +51,4 @@ Split the dataset into Training set and Test set, where 80% of the dataset is as
 | QDA | 0.956140        |
 | SGD | 0.921053        |
 
-
+[](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag1.JPG?raw=true)
