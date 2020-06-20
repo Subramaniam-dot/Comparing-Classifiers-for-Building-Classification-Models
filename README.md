@@ -62,4 +62,4 @@ Here is the  Bar Plot of model performance, where X axis is the Score for the Cl
 ![](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag2.png?raw=true)
 
 
-# [Here is the link to the code](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/comparing_classifiers.ipynb)
+#### [Here is the link to the code](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/comparing_classifiers.ipynb)
