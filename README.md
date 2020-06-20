@@ -1,4 +1,4 @@
-## Comparing-Classifiers-for-Building-Classification-Models
+# Comparing-Classifiers-for-Building-Classification-Models
 #### we will be comparing the performance of ***different classifiers*** for building classification models for Breast Cancer Wisconsin Dataset.
 
 # Algorithm:
@@ -62,4 +62,4 @@ Here is the  Bar Plot of model performance, where X axis is the Score for the Cl
 ![](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag2.png?raw=true)
 
 
-# [Here is the link to the code]()
+# [Here is the link to the code](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/raw/master/comparing_classifiers.ipynb)
