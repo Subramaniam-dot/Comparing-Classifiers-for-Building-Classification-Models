@@ -52,4 +52,7 @@ Split the dataset into Training set and Test set, where 80% of the dataset is as
 | SGD | 0.921053        |
 
 ![](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag1.JPG?raw=true)
+
+
+# analysis
 ![](https://github.com/Subramaniam-dot/Comparing-Classifiers-for-Building-Classification-Models/blob/master/imag2.png?raw=true)
